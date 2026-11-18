@@ -1,4 +1,4 @@
-# VISGEN STEM Learning Labs
+# VISGEN STEM Learning
 
 VISGEN is an interactive STEM learning site with Mathematics, Physics, Biology,
 and Chemistry labs. The project uses Flask to serve the pages and static files.
